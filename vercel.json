@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/auth-dashboard-v2.html" },
+    { "src": "/(.*)", "dest": "/$1" }
+  ]
+}
